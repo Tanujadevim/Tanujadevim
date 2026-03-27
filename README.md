@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🚀 My Key Projects
 
-<!--
-**Tanujadevim/Tanujadevim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 RoadSense AI (Speed Detection)
+👉 https://github.com/Tanujadevim/Automated-Speeding-Detection-and-Reporting.git
 
-Here are some ideas to get you started:
+🔹 Object Detection System (YOLOv3)
+👉 https://github.com/tefoLOGIC/Object-Detection-and-Recognition-System.git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 AR Application (Aruco Markers)
+👉 https://github.com/tefoLOGIC/AR-Application-using-ArUco-Markers.git
+
+🔹 Sign Language Recognition
+👉 https://github.com/tefoLOGIC/Sign-Language-Gesture-Recognition.git
